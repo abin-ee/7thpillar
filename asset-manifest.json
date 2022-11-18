@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/7thpillar/static/css/main.298eb121.css",
+    "main.js": "/7thpillar/static/js/main.8cc7e504.js",
+    "static/css/194.d9d1bb71.chunk.css": "/7thpillar/static/css/194.d9d1bb71.chunk.css",
+    "static/js/194.35c64b5a.chunk.js": "/7thpillar/static/js/194.35c64b5a.chunk.js",
+    "static/js/787.fc399bd2.chunk.js": "/7thpillar/static/js/787.fc399bd2.chunk.js",
+    "static/js/670.a530c6e2.chunk.js": "/7thpillar/static/js/670.a530c6e2.chunk.js",
+    "static/js/659.9a328449.chunk.js": "/7thpillar/static/js/659.9a328449.chunk.js",
+    "static/media/revicons.eot": "/7thpillar/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/7thpillar/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/7thpillar/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/7thpillar/index.html",
+    "main.298eb121.css.map": "/7thpillar/static/css/main.298eb121.css.map",
+    "main.8cc7e504.js.map": "/7thpillar/static/js/main.8cc7e504.js.map",
+    "194.d9d1bb71.chunk.css.map": "/7thpillar/static/css/194.d9d1bb71.chunk.css.map",
+    "194.35c64b5a.chunk.js.map": "/7thpillar/static/js/194.35c64b5a.chunk.js.map",
+    "787.fc399bd2.chunk.js.map": "/7thpillar/static/js/787.fc399bd2.chunk.js.map",
+    "670.a530c6e2.chunk.js.map": "/7thpillar/static/js/670.a530c6e2.chunk.js.map",
+    "659.9a328449.chunk.js.map": "/7thpillar/static/js/659.9a328449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.298eb121.css",
+    "static/js/main.8cc7e504.js"
+  ]
+}
